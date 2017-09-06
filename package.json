@@ -1,0 +1,23 @@
+{
+  "name": "flashcard",
+  "version": "1.0.0",
+  "description": "Flashcard generator game for irvine clas",
+  "main": "main.js",
+  "dependencies": {
+    "inquirer": "^3.2.3"
+  },
+  "devDependencies": {},2
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TatiannaD/Flashcard-Generator.git"
+  },
+  "author": "Tatianna Watwood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TatiannaD/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/TatiannaD/Flashcard-Generator#readme"
+}
